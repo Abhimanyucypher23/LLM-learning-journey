@@ -1,2 +1,2 @@
 # LLM-learning-journey
-i wnt to learn neural prompting while also learning ho to use Git and Github ,I am computer science student who is enthusiatic to learn technology.
+i want to learn neural prompting while also learning how to use Git and Github ,I am computer science student who is enthusiatic to learn technology.
